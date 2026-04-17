@@ -59,5 +59,5 @@ Il progetto utilizza le API di Google Maps. Per visualizzare correttamente le ma
 
 
 ---
-**Sviluppatori:** Lorenzo Marianini & Andrea Bianucci.
+**Sviluppatori:** Andrea Bianucci & Lorenzo Marianini.
 *Progetto didattico realizzato per la Maturità delle Scuole Superiori.*
